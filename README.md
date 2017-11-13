@@ -1,0 +1,2 @@
+# TheOnyxBashProject
+The Onyx Bash Project is a project by Tell Space. Onyx Bash is a set of programs and tools for simple tasks using the Linux Terminal interface. The Onyx Bash Project's goal is to make it easier to use the terminal and Command-Line based OS's like Ubuntu, Ultimately we want to make it possible to completely control your computer without leaving the Onyx Bash Program(s). At the same time as building The Onyx Bash Project are we also trying to grow a community around Onyx Bash! Pull requests, Comments and Issue reports are always welcome! Welcome on board!
