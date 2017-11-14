@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: The Onyx Bash Project
 description: The Onyx Bash Project is a set if tools/programs that run in the Linux Terminal enviroment and are completly text-based. The Onyx Bash Project is using the GNU GPL and is Open Source, Free Software.
+gems:
+      - jekyll-sitemap
