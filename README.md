@@ -1,15 +1,23 @@
-# Hello!
+# Welcome To The Onyx Bash Project
+The Beta version of the prject will soon be published
+More info over at our Trello Board:  <a href="https://trello.com/b/flj4E3V5" target="blank"> Here! <a>
+  
+  <br>
+  <br>
+# Community
 
-## This is The Onyx Bash Projects Website
+We are allso building a community around The onyx Bash Project More Info soon...
 
 
-The Porject Will Be active in the comming days!
+
+# Contact
+
+Github : TellSpaceOfficial
+E-mail : contact@tellspace.ml
+Instagram : @tellspace
 
 
-## Want to Be A Collaborator?
 
-## Contact
 
-Message us at contact@tellspace.ml
 
-Or follow our Trello Board over @ https://trello.com/b/flj4E3V5
+Tell Space The Onyx Bash Project A Tell Space Project 2017.
