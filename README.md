@@ -1,6 +1,6 @@
 # Welcome To The Onyx Bash Project
 <br>
-### This is The Onyx Bash Project! My name is Edvard Busck-Nielsen AKA Buscedv, And I'm a developer ar Tell Space and Responsible for The Onyx Bash Project, Love to hear from you soon! <a href="https.//github.com/Buscedv" target="blank"> My Github Page </a> <a href="http://tellspace.ml" target="blank"> Tell Space's Website </a>
+### This is The Onyx Bash Project! My name is Edvard Busck-Nielsen AKA Buscedv, And I'm a developer ar Tell Space and Responsible for The Onyx Bash Project, Love to hear from you soon! <a href="https://github.com/Buscedv" target="blank"> My Github Page </a> && <a href="http://tellspace.ml" target="blank"> Tell Space's Website </a>
 <br>
 <br>
 <br>
@@ -8,7 +8,7 @@
 ## Contributers:
 <br>
 
-Are you looking for a great starter open source Project? Then this is a great place for you! The Onyx Bash Project is written in two simple programming languages (Python & Shell-Script) and have a very simple code design. We're also trying to make it as easy as possible for beginners/intermediates to submit code and Pull Requests. If you want to get inspiration on helping out this project then I highly suggest you checking out our <a href="" target="blank"> Trello Page </a>.
+Are you looking for a great starter open source Project? Then this is a great place for you! The Onyx Bash Project is written in two simple programming languages (Python & Shell-Script) and have a very simple code design. We're also trying to make it as easy as possible for beginners/intermediates to submit code and Pull Requests. If you want to get inspiration on helping out this project then I highly suggest you checking out our <a href="https://trello.com/b/flj4E3V5" target="blank"> Trello Page </a>.
 
 ## Installation:
 <br>
