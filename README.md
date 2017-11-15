@@ -18,15 +18,15 @@ Installing Onyx Bash is wery simple.
 2. Extract zip file
 3. Open a Terminal inside the folder and type :
 <br>
-'''bash
+```bash
 sh Setup.sh
-'''
+```
 <br>
 4. And then
 <br>
-'''bash
+```bash
 sh OnyxBash.sh
-'''
+```
 <br>
 And you are done!
 
@@ -48,9 +48,11 @@ If you want to submit code (Witch is allways very welcome and appreciated) Then 
 5. Write your programs in Shell-Script Or Python.
 6. The programs shoud be designed run on Linux and should not be created for Mac OSX (this is a feature that could be added later).
 7. When doing a Pull Requests please write a detailed explenation/report on your code/changes.
-8. Use this at the top of your file(s):
+8. Use this at the top of your file(s) Exactly as shown below. Change everything between stars.:
 <br>
+
 ```sh
+
 # The Onyx Bash Project **Name Of Program**
 # A Program that **Description of your program**
 # **Version (ex. 1.0)**
@@ -62,7 +64,7 @@ If you want to submit code (Witch is allways very welcome and appreciated) Then 
 
 # Copyright 2017 **Your Name**
 
-#This file is part of The Onyx Bash Project.
+# This file is part of The Onyx Bash Project.
 
 #    The Onyx Bash Project is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -78,6 +80,7 @@ If you want to submit code (Witch is allways very welcome and appreciated) Then 
 #    along with The Onyx Bash Project.  If not, see <http://www.gnu.org/licenses/>.
 
 # Contact and FAQ : http://onyxbash.ml OR See the README.
+
 ```
 
 <br>
