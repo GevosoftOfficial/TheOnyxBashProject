@@ -53,9 +53,7 @@ If you want to submit code (Witch is allways very welcome and appreciated) Then 
 
 <details>
 <summary>Change the Names to correspond to your(s) and the programs name.</summary>
-<br>
-```sh
-  
+<br> 
 # The Onyx Bash Project **Name Of Program**
 # A Program that **Description of your program**
 # **Version (ex. 1.0)**
@@ -83,9 +81,6 @@ If you want to submit code (Witch is allways very welcome and appreciated) Then 
 #    along with The Onyx Bash Project.  If not, see <http://www.gnu.org/licenses/>.
 
 # Contact and FAQ : http://onyxbash.ml OR See the README.
-
-```
-
 <br>
 <details>
 
