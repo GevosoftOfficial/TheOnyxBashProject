@@ -1,7 +1,7 @@
 # Welcome To The Onyx Bash Project
 <br>
 <br>
-<img src="OnyxBashLogo1.png" alt="The Onyx Bash Project Logo" height="42" width="42">
+<img src="OnyxBashLogo1.png" alt="The Onyx Bash Project Logo">
 <br>
 ### This is The Onyx Bash Project! My name is Edvard Busck-Nielsen AKA Buscedv, And I'm a developer ar Tell Space and Responsible for The Onyx Bash Project, Love to hear from you soon! <a href="https://github.com/Buscedv" target="blank"> My Github Page </a> && <a href="http://tellspace.ml" target="blank"> Tell Space's Website </a>
 <br>
