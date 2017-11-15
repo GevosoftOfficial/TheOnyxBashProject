@@ -87,10 +87,23 @@ If you want to submit code (Witch is allways very welcome and appreciated) Then 
 <br>
 <br>
 ## Summary
-If you follow these gidlines then the chance of your Pull Request being merged is much greater.
-A word of advice: If you do not comment your code then it will be ignored. If you missuse/try to missuese The GNU GPL your Pull Request will ve deleted and ignored!
+A word of advice: If you do not comment your code then it will be ignored. And I have zero tolerans of misuse of the GNU GPL so if you missuse or try to missuese The GNU GPL your Pull Request will imidiatly be deleted and ignored!
 
 So good luck to you!
 
+<br>
+<br>
 
-Tell Space 2017 The Onyx bash Project
+## Contact
+<br>
+
+Website: <a href="http://tellspace.ml"> Tell Space </a>
+Github: <a href="https://github.com/TellSpaceofficial"> Tell Space </a>
+Github: <a href="https://github.com/Buscedv"> Buscedv </a>
+E-mail:  contact@tellspace.ml & contact@tellspace.ml
+E-mail: buscedv@tellspace.ml
+Instagram: @tellspace
+Hashtags: #tellspace #onyxbash #opensource #github
+
+
+Tell Space 2017 The Onyx Bash Project
