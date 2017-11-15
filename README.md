@@ -98,11 +98,17 @@ So good luck to you!
 <br>
 
 Website: <a href="http://tellspace.ml"> Tell Space </a>
+
 Github: <a href="https://github.com/TellSpaceofficial"> Tell Space </a>
+
 Github: <a href="https://github.com/Buscedv"> Buscedv </a>
+
 E-mail:  contact@tellspace.ml & contact@tellspace.ml
+
 E-mail: buscedv@tellspace.ml
+
 Instagram: @tellspace
+
 Hashtags: #tellspace #onyxbash #opensource #github
 
 
