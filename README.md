@@ -50,10 +50,7 @@ If you want to submit code (Witch is allways very welcome and appreciated) Then 
 7. When doing a Pull Requests please write a detailed explenation/report on your code/changes.
 8. Use this at the top of your file(s):
 <br>
-
-<details>
-<summary>Change the Names to correspond to your(s) and the programs name.</summary>
-<br> 
+```sh
 # The Onyx Bash Project **Name Of Program**
 # A Program that **Description of your program**
 # **Version (ex. 1.0)**
@@ -81,10 +78,12 @@ If you want to submit code (Witch is allways very welcome and appreciated) Then 
 #    along with The Onyx Bash Project.  If not, see <http://www.gnu.org/licenses/>.
 
 # Contact and FAQ : http://onyxbash.ml OR See the README.
-<br>
-<details>
+```
 
 <br>
+<br>
+<br>
+## Summary
 If you follow these gidlines then the chance of your Pull Request being merged is much greater.
 A word of advice: If you do not comment your code then it will be ignored. If you missuse/try to missuese The GNU GPL your Pull Request will ve deleted and ignored!
 
