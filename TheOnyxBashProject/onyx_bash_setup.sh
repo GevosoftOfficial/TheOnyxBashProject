@@ -66,5 +66,7 @@ sudo chmod 777 .user_data_apps.txt.sh
 # Informs the user
 echo "Done with the setup procces type : sh OnyxBash.sh to continue to main program"
 echo "The Onyx Bash Project Tell Space 2017."
+# Create file to show that the setup is done for the main script.
+touch .user_data.txt
 # Exits the script
 exit
