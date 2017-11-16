@@ -1,5 +1,5 @@
 # The Onyx Bash Project Setup
-# TThe setup script for The Onyx Bash Project
+# The setup script for The Onyx Bash Project
 # Beta
 # 
 # Edvard Busck-Nielsen, Tell Space, hereby disclaims all copyright interest in the program “The Onyx Bash Project Setup” (witch is a set of  terminal tools for simple tasks) written by Edvard Busck-Nielsen.
@@ -58,6 +58,8 @@ sudo chmod 777 OnyxBash.sh
 sudo chmod +x OnyxBash.sh
 sudo chmod 777 onyx_bash_setup.sh
 sudo chmod +x onyx_bash_setup.sh
+sudo chmod 777 filemanager.sh
+sudo chmod +x filemanager.sh
 sudo chmod 777 .user_data_name.txt
 sudo chmod 777 .user_data_apps.txt
 

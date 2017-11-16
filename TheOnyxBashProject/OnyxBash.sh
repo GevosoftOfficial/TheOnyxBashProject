@@ -40,6 +40,7 @@ if [ -e .user_data.txt ]
 		# Part 1 : Home Screen
 		
 		# Clears the screen
+		clear
 		# Shows header
 		figlet The Onyx Bash Project
 		figlet -f mini H o m e
