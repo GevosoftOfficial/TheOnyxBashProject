@@ -81,7 +81,11 @@ else
 		elif [ "$file_action" =  "3" ]
 			then
 				# The user picked option 'Exit program'.
-				# Exits the program
+				# Exits the program into the main Onyx Bash script
+				# Changes Folder
+				cd ..
+				# Calls The main Onyx Bash Script
+				sh OnyxBash.sh
 				clear
 				exit
 		elif [ "$file_action" = "" ]
