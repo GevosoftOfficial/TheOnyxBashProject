@@ -8,7 +8,7 @@
 # Edvard Busck-Nielsen, President of Tell Space Technology Development & Developer at Tell Space Technology Development
 
 # Copyright 2017, 2017 Edvard Busck-Nielsen
-!/bin/bash
+#!/bin/bash
 
 # This file is part of The Onyx Bash Project.
 
@@ -36,8 +36,6 @@ if [ -e .user_data.txt ]
 		# The file exists the script continues
 		# Gets the user's name from file : .user_data_name.txt the name is stored in variable 'user_name'
 		user_name=$(cat .user_data_name.txt)
-		# Gets the list of available onyx bash programs form the file : .user_data_apps.txt then list stored in variable 'user_apps'
-		user_apps=$(cat .user_data_apps.txt)
 
 		# Part 1 : Home Screen
 		
@@ -49,7 +47,7 @@ if [ -e .user_data.txt ]
 		echo "\033[4m\033[1m$user_name\033[0m"
 		echo ""
 		# Shows a list of the available programs
-		echo "$user_apps"
+		cat .user_data_apps.txt
 		echo ""
 
 		# Part 2 : Action

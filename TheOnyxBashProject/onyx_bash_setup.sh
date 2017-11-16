@@ -8,7 +8,7 @@
 # Edvard Busck-Nielsen, President of Tell Space Technology Development & Developer at Tell Space Technology Development
 
 # Copyright 2017, 2017 Edvard Busck-Nielsen
-!/bin/bash
+#!/bin/bash
 
 # This file is part of The Onyx Bash Project.
 
@@ -47,7 +47,7 @@ touch .user_data_name.txt
 echo "$user_name" >> .user_data_name.txt
 # Sets up program list file
 touch .user_data_apps.txt
-echo "File Manager" >> .user_data_apps
+echo "File Manager (filemanager)" >> .user_data_apps.txt
 
 # Part 2 : File Permission Setup.
 
