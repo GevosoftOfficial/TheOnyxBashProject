@@ -17,7 +17,7 @@ Are you looking for a great starter open source Project? Then this is a great pl
 <br>
 
 Installing Onyx Bash is wery simple.
-1. Download the folder 'TheOnyxBashProject'. The easiest way to download the progject is to just click <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/TellSpaceOfficial/TheOnyxBashProject/tree/master/TheOnyxBashProject"> This Link </a> Or click the diwnload biúttons at the top of the page and locate to the 'TheOnyxBashProject' Folder.
+1. Download the folder 'TheOnyxBashProject'. The easiest way to download the project is to just click <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/TellSpaceOfficial/TheOnyxBashProject/tree/master/TheOnyxBashProject"> This Link </a> Or click the download buttons at the top of the page and locate the 'TheOnyxBashProject' Folder.
 2. Extract zip file
 3. Open a Terminal inside the folder and type :
 <br>
