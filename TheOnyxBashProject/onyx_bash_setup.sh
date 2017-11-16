@@ -53,13 +53,13 @@ echo "File Manager" >> .user_data_apps
 
 # Sets up file permissions
 # Informs the user
-echo "The program needs ŚU (Super-User Privileges) to setup file permissions, Please enter your password: "
+echo "The program needs SU (Super-User Privileges) to setup file permissions, Please enter your password: "
 sudo chmod 777 OnyxBash.sh
 sudo chmod +x OnyxBash.sh
 sudo chmod 777 onyx_bash_setup.sh
 sudo chmod +x onyx_bash_setup.sh
-sudo chmod 777 .user_data_name.txt.sh
-sudo chmod 777 .user_data_apps.txt.sh
+sudo chmod 777 .user_data_name.txt
+sudo chmod 777 .user_data_apps.txt
 
 # Part 3 : Exit
 
