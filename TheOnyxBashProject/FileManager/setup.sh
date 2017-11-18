@@ -8,7 +8,7 @@
 # Edvard Busck-Nielsen, President of Tell Space Technology Development & Developer at Tell Space Technology Development
 
 # Copyright 2017, 2017 Edvard Busck-Nielsen
-!/bin/bash
+#!/bin/bash
 
 # This file is part of The Onyx Bash Project.
 
@@ -69,6 +69,7 @@ echo "Done! Default Text-Editor set to : $text_editor"
 
 # Creates a user data file so the script(s) know that this setup script has been executed for future reference.
 # Removes any old versions of the file.
+cd ..
 rm .user_data_filemanager.txt
 touch .user_data_filemanager.txt
 

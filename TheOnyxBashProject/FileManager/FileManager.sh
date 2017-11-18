@@ -8,7 +8,7 @@
 # Edvard Busck-Nielsen, President of Tell Space Technology Development & Developer at Tell Space Technology Development
 
 # Copyright 2017, 2017 Edvard Busck-Nielsen
-!/bin/bash
+#!/bin/bash
 
 # This file is part of The Onyx Bash Project.
 
