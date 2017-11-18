@@ -65,7 +65,14 @@ touch .user_data_texteditor.txt
 echo "$text_editor" >> .user_data_texteditor.txt
 echo "Done! Default Text-Editor set to : $text_editor"
 
-# Part 2 : Exit
+# Part 2 : User Data File
+
+# Creates a user data file so the script(s) know that this setup script has been executed for future reference.
+# Removes any old versions of the file.
+rm .user_data_filemanager.txt
+touch .user_data_filemanager.txt
+
+# Part 3 : Exit
 
 # Exits the script
 echo "Setup Done. Type : sh FileManager.sh to start the file manager."

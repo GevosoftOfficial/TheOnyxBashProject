@@ -27,14 +27,29 @@
 
 # Contact and FAQ : http://onyxbash.ml OR See the README.
 
-# Part 0 : Class the script
+# Part 0 : Seup & Checks
 
-# Clears the screen
-clear
-# Changes directory
-cd FileManager
-# Calls the script
-sh FileManager.sh
-# Exits
-clear
-exit
+# Checks if it's the first time opening the File Manager using a text file, witch means it needs setup.
+if [ -e .user_data_filemanager.txt ]
+	then
+		# The file exits the script continues
+		# Part 1 : Calls the script
+
+		# Clears the screen
+		clear
+		# Changes directory
+		cd FileManager
+		# Calls the script
+		sh FileManager.sh
+		# Exits
+		clear
+		exit
+else
+	# The file doesn't exit runs the setup file (setup.sh)
+	# Changes directory into the File Managers directory.
+	cd FileManager
+	# Runs the setup script.
+	sh setup.sh
+	clear
+	exit
+fi
