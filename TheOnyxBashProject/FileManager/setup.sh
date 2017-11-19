@@ -79,5 +79,5 @@ touch .user_data_filemanager.txt
 echo "Setup Done. Type : sh FileManager.sh to start the file manager."
 echo "Tell Space The Onyx Bash Project 2017"
 sh OnyxBash.sh
-clear
+clear	
 exit

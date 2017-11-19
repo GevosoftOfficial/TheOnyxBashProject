@@ -43,9 +43,12 @@ printf "Set User Name: "
 # Gets input stored in 'user_name' variable
 read user_name
 # Creates a file that stores the users user name, called '.user_data_name.txt'
+# Removeds any old versions of the file
+rm .user_data_name.txt
 touch .user_data_name.txt
 echo "$user_name" >> .user_data_name.txt
-# Sets up program list file
+# Sets up program list file and removes any old versions of the file.
+rm .user_data_apps.txt
 touch .user_data_apps.txt
 echo "File Manager (filemanager)" >> .user_data_apps.txt
 echo "System Settings (settings)" >> .user_data_apps.txt
