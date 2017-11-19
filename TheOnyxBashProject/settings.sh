@@ -39,7 +39,7 @@ figlet T h e   O n y x   B a s h   P r o j e c t
 figlet -f mini S y s t e m   S e t t i n g s
 echo ""
 # Shows a list of available settings commands.
-echo "\033[1m\033[4mSettings: 1) Onyx Bash Settings, 2) File Manager Settings, 3) Exit"
+echo "\033[1m\033[4mSettings: 1) Onyx Bash Settings, 2) File Manager Settings, 3) Exit\033[0m"
 echo ""
 
 # Part 2 : Settings Action
@@ -63,7 +63,7 @@ elif [ "$settings_action" = "2" ]
 	then
 		# The user picked 'File Manager Settings'
 		# Runs the File Manager setup script
-		# Changes to the Fiule naager Directory
+		# Changes to the File manager Directory
 		cd FileManager
 		# Runs the setup script.
 		sh setup.sh
@@ -72,7 +72,8 @@ elif [ "$settings_action" = "2" ]
 elif [ "$settings_action" = "3" ]
 	then
 		# The user picked 'Exit'
-		# Exits the script
+		# Exits the script into main Onyx Bash script 'OnyxBash.sh'
+		sh OnyxBash.sh
 		clear
 		exit
 else

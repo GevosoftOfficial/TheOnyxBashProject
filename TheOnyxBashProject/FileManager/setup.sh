@@ -75,7 +75,9 @@ touch .user_data_filemanager.txt
 
 # Part 3 : Exit
 
-# Exits the script
+# Exits the script into main Onyx Bash script (OnyxBash.sh)
 echo "Setup Done. Type : sh FileManager.sh to start the file manager."
 echo "Tell Space The Onyx Bash Project 2017"
+sh OnyxBash.sh
+clear
 exit
