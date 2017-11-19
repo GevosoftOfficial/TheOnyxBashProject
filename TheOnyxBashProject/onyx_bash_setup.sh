@@ -48,6 +48,7 @@ echo "$user_name" >> .user_data_name.txt
 # Sets up program list file
 touch .user_data_apps.txt
 echo "File Manager (filemanager)" >> .user_data_apps.txt
+echo "System Settings (settings)" >> .user_data_apps.txt
 
 # Part 2 : File Permission Setup.
 
@@ -60,6 +61,8 @@ sudo chmod 777 onyx_bash_setup.sh
 sudo chmod +x onyx_bash_setup.sh
 sudo chmod 777 filemanager.sh
 sudo chmod +x filemanager.sh
+sudo chmod 777 settings.sh
+sudo chmod +x settings.sh
 sudo chmod 777 .user_data_name.txt
 sudo chmod 777 .user_data_apps.txt
 
