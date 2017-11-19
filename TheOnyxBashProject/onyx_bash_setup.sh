@@ -35,6 +35,8 @@ clear
 # Informs the user
 echo "Please enter your password to be able to install 'figlet': "
 sudo apt install figlet
+# Clears the screen
+clear
 # Shows header text message
 figlet -f mini T h e   O n y x   B a s h   P r o j e c t   S e t u p
 echo ""
