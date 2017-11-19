@@ -52,6 +52,7 @@ rm .user_data_apps.txt
 touch .user_data_apps.txt
 echo "File Manager (filemanager)" >> .user_data_apps.txt
 echo "System Settings (settings)" >> .user_data_apps.txt
+clear
 
 # Part 2 : File Permission Setup.
 
@@ -68,6 +69,7 @@ sudo chmod 777 settings.sh
 sudo chmod +x settings.sh
 sudo chmod 777 .user_data_name.txt
 sudo chmod 777 .user_data_apps.txt
+clear
 
 # Part 3 : Exit
 
