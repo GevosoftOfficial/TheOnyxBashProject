@@ -39,7 +39,7 @@ figlet T h e   O n y x   B a s h   P r o j e c t
 figlet -f mini S y s t e m   S e t t i n g s
 echo ""
 # Shows a list of available settings commands.
-echo "\033[1m\033[4mSettings: 1) Onyx Bash Settings, 2) File Manager Settings, 3) Exit\033[0m"
+echo "\033[2m1) Onyx Bash Settings, 2) File Manager Settings, 3) Exit\033[0m"
 echo ""
 
 # Part 2 : Settings Action

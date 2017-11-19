@@ -29,7 +29,13 @@
 
 # Part 0 : Setup File Permissions
 
-echo "The Onyx Bash Project File Manager Setup"
+# Clears the screen
+clear
+# Shows header using 'figlet'
+figlet T h e   O n y x   B a s h   P r o j e c t
+echo ""
+echo "\033[1m\033[4mFile Manager Setup\033[0m"
+echo ""
 echo "Please follow these instructions to install & Setup The Onyx Bash File Manager"
 echo "This file needs SU (Super-User) Profligates, Please enter your password: "
 # Changes all the Files part of the file managers permissions and make them executable.

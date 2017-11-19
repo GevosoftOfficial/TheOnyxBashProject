@@ -86,9 +86,9 @@ else
 	# Clears the screen
 	clear
 	# Informs the user
-	echo "Welcome to The Onyx Bash Project (onyxbash.ml)"
+	echo "\033[1mWelcome to The Onyx Bash Project (onyxbash.ml)\033[0m"
 	echo "This is the first time running this program, please do some setup:"
-	echo "Press enter to continue with the setup..."
+	echo "\033[2mPress enter to continue with the setup...\033[0m"
 	# Gets confirmation input stored in temporary variable
 	read tmp
 	# Exits into setup script.

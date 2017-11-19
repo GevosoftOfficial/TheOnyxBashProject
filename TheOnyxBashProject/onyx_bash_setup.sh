@@ -38,8 +38,9 @@ sudo apt install figlet
 # Clears the screen
 clear
 # Shows header text message
-figlet -f mini T h e   O n y x   B a s h   P r o j e c t   S e t u p
+figlet -f mini T h e   O n y x   B a s h   P r o j e c t
 echo ""
+echo "\033[1m\033[4mSetup\033[0m"
 echo ""
 
 # Part 1 : Setup process
