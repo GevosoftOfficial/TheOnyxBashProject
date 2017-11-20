@@ -35,7 +35,7 @@ clear
 # Part 1 : Header/Menu
 
 # Show a header using 'figlet'
-figlet T h e   O n y x   B a s h   P r o j e c t
+figlet The Onyx Bash Project
 figlet -f mini S y s t e m   S e t t i n g s
 echo ""
 # Shows a list of available settings commands.

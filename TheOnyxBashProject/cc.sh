@@ -29,6 +29,9 @@
 
 # Part 0 : Home Screen
 
+# Clears the sceen
+clear
+
 while : ;do
 	time_var=$(date +%T)
 	# Shows a header and basic information
