@@ -40,6 +40,7 @@ echo ""
 
 # Shows a list of all the files in the 'Documents' Directory
 ls -l
+echo ""
 # Asks the user for a filename and stores it in the variable 'filename'
 printf "Select File: "
 read -r filename

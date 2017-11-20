@@ -38,7 +38,7 @@ sudo apt install figlet
 # Clears the screen
 clear
 # Shows header text message
-figlet -f mini T h e   O n y x   B a s h   P r o j e c t
+figlet -f mini The Onyx Bash Project
 echo ""
 echo "\033[1m\033[4mSetup\033[0m"
 echo ""
@@ -59,6 +59,7 @@ rm .user_data_apps.txt
 touch .user_data_apps.txt
 echo "File Manager (filemanager)" >> .user_data_apps.txt
 echo "System Settings (settings)" >> .user_data_apps.txt
+echo "Calendar/Clock (cc)" >> .user_data_apps.txt
 clear
 
 # Part 2 : File Permission Setup.
@@ -74,6 +75,8 @@ sudo chmod 777 filemanager.sh
 sudo chmod +x filemanager.sh
 sudo chmod 777 settings.sh
 sudo chmod +x settings.sh
+sudo chmod 777 cc.sh
+sudo chmod +x cc.sh
 sudo chmod 777 .user_data_name.txt
 sudo chmod 777 .user_data_apps.txt
 clear
