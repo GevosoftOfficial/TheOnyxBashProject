@@ -57,7 +57,7 @@ echo "$user_name" >> .user_data_name.txt
 # Sets up program list file and removes any old versions of the file.
 rm .user_data_apps.txt
 touch .user_data_apps.txt
-echo "File Manager (filemanager)" >> .user_data_apps.txt
+echo "File Manager (fm)" >> .user_data_apps.txt
 echo "System Settings (settings)" >> .user_data_apps.txt
 echo "Calendar/Clock (cc)" >> .user_data_apps.txt
 clear
