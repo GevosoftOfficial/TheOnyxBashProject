@@ -38,7 +38,7 @@ echo "\033[1m\033[4mBasic Info:\033[0m"
 uname -a
 echo ""
 # Shows list of possible actions to take.
-echo "\033[1m\033[4m1) Advanced System Info, 2) Exit"
+echo "\033[1m\033[4m1) Advanced System Info, 2) Exit\033[0m"
 # Gets user input stored in the variable 'info_action'
 printf ": "
 read -r info_action
@@ -51,6 +51,7 @@ if [ "$info_action" = "1" ]
 		echo "\033[1m\033[4mThis script needs SU (Super-User) Permissions please enter your password below:\033[0m"
 		sudo lshw -short
 		# Informs the user for end of the command 'lshw (Short version)'
+		echo ""
 		echo "\0331m\033[4m***END*** Pres enter to exit.\033[0m"
 		# Confirmation input stored in temporary variable.
 		read tmp
