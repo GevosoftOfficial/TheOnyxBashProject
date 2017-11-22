@@ -60,6 +60,7 @@ touch .user_data_apps.txt
 echo "File Manager (fm)" >> .user_data_apps.txt
 echo "System Settings (settings)" >> .user_data_apps.txt
 echo "Calendar/Clock (cc)" >> .user_data_apps.txt
+echo "System Information (system)" >> .user_data_apps.txt
 clear
 
 # Part 2 : File Permission Setup.
@@ -77,6 +78,8 @@ sudo chmod 777 settings.sh
 sudo chmod +x settings.sh
 sudo chmod 777 cc.sh
 sudo chmod +x cc.sh
+sudo chmod 777 system.sh
+sudo chmod +x system.sh
 sudo chmod 777 .user_data_name.txt
 sudo chmod 777 .user_data_apps.txt
 clear
