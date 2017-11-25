@@ -32,7 +32,9 @@
 # Clears the sceen
 clear
 
+# Infinite loop to show time
 while : ;do
+	# Creates a variable equal to the system time called 'time_var'
 	time_var=$(date +%T)
 	# Shows a header and basic information
 	figlet The Onyx Bash Project
@@ -42,9 +44,13 @@ while : ;do
 	echo ""
 	echo "\033[2mCancel real time clock by pressing 'Ctrl+C' Type sh OnyxBash.sh After that to launch main program\033[0m"
 	echo ""
+	# Shows calendar
 	cal
 	echo ""
+	# Shows time using 'sysvbanner' program
 	banner $time_var
+	# Waits one second
 	sleep 1
+	# Clears the screen
 	clear
 done
