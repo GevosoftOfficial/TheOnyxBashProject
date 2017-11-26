@@ -35,6 +35,8 @@ clear
 # Informs the user
 echo "Please enter your password to be able to install 'figlet': "
 sudo apt install figlet
+# Installs sysvbanner
+sudo apt-get install sysvbanner
 # Clears the screen
 clear
 # Shows header text message
