@@ -51,7 +51,7 @@ If you want to submit code (Witch is allways very welcome and appreciated) Then 
 5. Write your programs in Shell-Script Or Python.
 6. The programs shoud be designed run on Linux and should not be created for Mac OSX (this is a feature that could be added later).
 7. When doing a Pull Requests please write a detailed explenation/report on your code/changes.
-8. Use this at the top of your file(s) Exactly as shown below. Change everything between stars.:
+8. Use this at the top of your file(s) As comments. Exactly as shown below. Change everything between stars.:
 <br>
 
 ```sh
