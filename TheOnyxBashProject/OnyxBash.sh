@@ -57,27 +57,43 @@ if [ -e .user_data.txt ]
 		printf "Choose Program: "
 		# Gets user input stored in 'app_selection' variable
 		read -r app_selection
-		# Adds the '.sh' extension to the variable
-		app_selection="$app_selection.sh"
-		# Checks if the program the user selected exists.
-		if [ -e $app_selection ]
-			then
-				# The script exists the script continues
-				# Exits the script into  the users selected program
-				# Calls the corresponding program to the users input.
-				sh $app_selection
+		# Checks if the selection in Kelly
+		if [ "$app_selection" != "kelly" ]; then
+			# Adds the '.sh' extension to the variable if it's not a python script
+			app_selection="$app_selection.sh"
+			# Checks if the program the user selected exists.
+			if [ -e $app_selection ]
+				then
+					# The script exists the script continues
+					# Exits the script into  the users selected program
+					# Calls the corresponding program to the users input.
+					sh $app_selection
+					clear
+					exit
+			fi
+		else
+			# Adds the .py slection to the variable	
+			app_selection="$app_selection.py"
+			# Checks if the program the user selected exists.
+			if [ -e $app_selection ]
+				then
+					# The script exists the script continues
+					# Exits the script into  the users selected program
+					# Calls the corresponding program to the users input.
+					python $app_selection
+					clear
+					exit		
+			else
+				# The script doesn't exists the script restarts.
+				# Informs the user
+				echo "Error! The Program : $app_selection Was not found!"
+				# Confirmation input stored in temporary variable
+				read tmp
+				# Restarts the script.
+				sh OnyxBash.sh
 				clear
 				exit
-		else
-			# The script doesn't exists the script restarts.
-			# Informs the user
-			echo "Error! The Program : $app_selection Was not found!"
-			# Confirmation input stored in temporary variable
-			read tmp
-			# Restarts the script.
-			sh OnyxBash.sh
-			clear
-			exit
+			fi
 		fi
 		
 

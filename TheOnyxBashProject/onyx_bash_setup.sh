@@ -63,6 +63,7 @@ echo "File Manager (fm)" >> .user_data_apps.txt
 echo "System Settings (settings)" >> .user_data_apps.txt
 echo "Calendar/Clock (cc)" >> .user_data_apps.txt
 echo "System Information (system)" >> .user_data_apps.txt
+echo "Kelly Prg. Lang. Terminal (kelly)" >> .user_data_apps.txt
 clear
 
 # Part 2 : File Permission Setup.
