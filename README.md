@@ -97,22 +97,20 @@ So good luck to you!
 <br>
 <br>
 
-## Contact
+## Kelly Programming Language Terminal
+<br>
+The Onyx Bash Project icludes a simple BASIC-Inspired Programming Language terminal. This is a list of avalable commands:
+<br>
+* Printing text to the screen: print ("your text")
+* Creating a varible: var (var_name = "some string")
+* Printing variables: print (var_name)
+* Combinding a variable and a string: var ($some_var + "some string")
+* Clear the screen: clear
+* Exit kelly: exit
+* Help menu & Command list: help
+* Credits: credits
+<br>
+### Please remember that Kelly is heavaly under construction and is still in beta.
 <br>
 
-Website: <a href="http://tellspace.ml"> Tell Space </a>
-
-Github: <a href="https://github.com/TellSpaceofficial"> Tell Space </a>
-
-Github: <a href="https://github.com/Buscedv"> Buscedv </a>
-
-E-mail:  contact@tellspace.ml & contact@tellspace.ml
-
-E-mail: buscedv@tellspace.ml
-
-Instagram: @tellspace
-
-Hashtags: #tellspace #onyxbash #opensource #github
-
-
-Tell Space 2017 The Onyx Bash Project
+## Contact.
