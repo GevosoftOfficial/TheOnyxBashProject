@@ -8,7 +8,7 @@ import os
 # signature of Edvard Busck-Nielsen 23 December 2017
 # Edvard Busck-Nielsen, President of Tell Space Technology Development & Developer at Tell Space Technology Development
 
-# Copyright 2017, 2017 Edvard Busck-Nielsen
+# Copyright 2018, 2018 Edvard Busck-Nielsen
 
 # This file is part of The Onyx Bash Project.
 
