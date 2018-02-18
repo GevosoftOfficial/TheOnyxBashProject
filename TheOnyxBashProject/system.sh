@@ -1,11 +1,11 @@
 # The Onyx Bash Project System Information
 # Simple script for showing some system information as a part of The Onyx Bash Project
-# Beta
+# 1.0
 # 
-# Edvard Busck-Nielsen, Tell Space, hereby disclaims all copyright interest in the program “The Onyx Bash Project System Information (witch is a set of  terminal tools for simple tasks) written by Edvard Busck-Nielsen.
+# Edvard Busck-Nielsen, Gevosoft, hereby disclaims all copyright interest in the program “The Onyx Bash Project System Information (witch is a set of  terminal tools for simple tasks) written by Edvard Busck-Nielsen.
 
 # signature of Edvard Busck-Nielsen 13 November 2017
-# Edvard Busck-Nielsen, President of Tell Space Technology Development & Developer at Tell Space Technology Development
+# Edvard Busck-Nielsen, President of Gevosoft Technology Development & Developer at Gevosoft Technology Development
 
 # Copyright 2018, 2018 Edvard Busck-Nielsen
 #!/bin/bash

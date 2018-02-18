@@ -1,12 +1,12 @@
 import os
 # The Onyx Bash Project Kelly Prg. Lang
-# Kelly Programming Lnaguage terminal
+# Kelly Programming Language terminal
 # 2.0
 # 
-# Edvard Busck-Nielsen, Tell Space, hereby disclaims all copyright interest in the program "Kelly Porgramming Language" (witch is a programming language Based On The BASIC Programming Language.) written by Edvard Busck-Nielsen.
+# Edvard Busck-Nielsen, Gevosoft, hereby disclaims all copyright interest in the program "Kelly Porgramming Language" (witch is a programming language Based On The BASIC Programming Language.) written by Edvard Busck-Nielsen.
 
 # signature of Edvard Busck-Nielsen 23 December 2017
-# Edvard Busck-Nielsen, President of Tell Space Technology Development & Developer at Tell Space Technology Development
+# Edvard Busck-Nielsen, President of Gevosoft Technology Development & Developer at Gevosoft Technology Development
 
 # Copyright 2018, 2018 Edvard Busck-Nielsen
 
