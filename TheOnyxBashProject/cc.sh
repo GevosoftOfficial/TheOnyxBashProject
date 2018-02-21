@@ -1,6 +1,6 @@
 # The Onyx Bash Project CC (Calendar Clock)
 # Calendar/Clock script for The Onyx Bash Projects script(s)
-# 2.0
+# 3.0
 # 
 # Edvard Busck-Nielsen, Gevosoft, hereby disclaims all copyright interest in the program “The Onyx Bash Project CC” (witch is a set of  terminal tools for simple tasks) written by Edvard Busck-Nielsen.
 
@@ -50,7 +50,7 @@ while : ;do
 	# Shows time using 'sysvbanner' program
 	banner $time_var
 	# Waits one second
-	sleep 1
+	sleep 0.9
 	# Clears the screen
 	clear
 done
