@@ -1,6 +1,6 @@
 # The Onyx Bash Project CC (Calendar Clock)
 # Calendar/Clock script for The Onyx Bash Projects script(s)
-# 3.0
+# 4.0
 # 
 # Edvard Busck-Nielsen, Gevosoft, hereby disclaims all copyright interest in the program “The Onyx Bash Project CC” (witch is a set of  terminal tools for simple tasks) written by Edvard Busck-Nielsen.
 
@@ -35,7 +35,7 @@ clear
 # Infinite loop to show time
 while : ;do
 	# Creates a variable equal to the system time called 'time_var'
-	time_var=$(date +%T)
+	time_var=$(date +%T | sed 's/./& /g')
 	# Shows a header and basic information
 	figlet The Onyx Bash Project
 	figlet -f mini C a l e n d a r  /  C l o c k
@@ -48,7 +48,7 @@ while : ;do
 	cal
 	echo ""
 	# Shows time using 'sysvbanner' program
-	banner $time_var
+	figlet -f big $time_var
 	# Waits one second
 	sleep 0.9
 	# Clears the screen
