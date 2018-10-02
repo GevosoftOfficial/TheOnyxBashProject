@@ -3,7 +3,7 @@
 <br>
 <img src="OnyxBashLogo1.png" alt="The Onyx Bash Project Logo" width="70%" height="70%">
 <br>
-### This is The Onyx Bash Project! My name is Edvard Busck-Nielsen, But you can call me Buscedv, And I'm a developer at Gevosoft and Responsible for The Onyx Bash Project, Love to hear from you soon! <a href="https://github.com/Buscedv" target="blank"> My Github Page </a> && <a href="http://gevosoft.ml" target="blank"> Gevosoft's Website </a>
+### This is The Onyx Bash Project! My name is Edvard Busck-Nielsen, And I'm a developer at Gevosoft and Responsible for The Onyx Bash Project. <a href="https://github.com/Buscedv" target="blank"> My Github Page </a> && <a href="https://gevosoft.ml" target="blank"> Gevosoft's Website </a>
 <br>
 <br>
 <br>
@@ -11,7 +11,7 @@
 ## Contributers:
 <br>
 
-Are you looking for a great starter open source Project? Then this is a great place for you! The Onyx Bash Project is written in two simple programming languages (Python & Shell-Script) and have a very simple code design. We're also trying to make it as easy as possible for beginners/intermediates to submit code and Pull Requests.God Luck!
+The Onyx Bash Project is written in two simple programming languages (Python & Shell-Script) and have a very simple code design.
 
 ## Installation:
 <br>
@@ -107,5 +107,6 @@ The Onyx Bash Project icludes a simple BASIC-Inspired Programming Language termi
 * Exit kelly: exit
 * Help menu & Command list: help
 * Credits: credits
+* Read more @ <a href="https://kellycode.ml" target="blank">Kelly's Website</a>
 <br>
 ## Contact.
