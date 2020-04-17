@@ -3,10 +3,6 @@
 <br>
 <img src="OnyxBashLogo1.png" alt="The Onyx Bash Project Logo" width="70%" height="70%">
 <br>
-### This is The Onyx Bash Project! My name is Edvard Busck-Nielsen, But you can call me Buscedv, And I'm a developer at Gevosoft and Responsible for The Onyx Bash Project, Love to hear from you soon! <a href="https://github.com/Buscedv" target="blank"> My GitHub Page </a> && <a href="http://gevosoft.ml" target="blank"> Gevosoft's Website </a>
-<br>
-<br>
-<br>
 
 ## Contributers:
 <br>
